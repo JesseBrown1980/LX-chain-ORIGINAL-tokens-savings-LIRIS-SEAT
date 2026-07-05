@@ -58,6 +58,17 @@ See `docs/measured-liris-lx-census-2026-07-05.csv`.
 - `docs/evidence-pointers-2026-07-05.csv`: `b52867e477621036ee89550480bdff94603cf97bf51a6bdb4fcb817c97df4a68`
 - `receipts/LX-CHAIN-ORIGIN-TOKEN-SAVINGS-2026-07-05.hbp`: `0520592759d67754668ccaa4d7e32f2feb355282e0c927548533457bbbc3ffaf`
 - `receipts/LX-CHAIN-ORIGIN-TOKEN-SAVINGS-2026-07-05.hbi`: `62cdf8c69625bd3fc5f4779411d69a35943ccc840675bae99b828eae7e4c8f4b`
+
+
+## IX/LX Cross-Seat Bridge
+
+This repository is reciprocally linked to the peer origin receipt:
+
+- Peer repo: https://github.com/JesseBrown1980/IX-chain-ORIGINAL-index-language-ACER-SEAT
+- Peer measured commit before bridge: `83172c55ba91892a8f812a6099e020affef82cd0`
+- Bridge packet: `docs/IX-LX-CROSS-SEAT-BRIDGE-2026-07-05.md`
+- Bridge HBP/HBI: `receipts/IX-LX-CROSS-SEAT-BRIDGE-2026-07-05.hbp`, `receipts/IX-LX-CROSS-SEAT-BRIDGE-2026-07-05.hbi`
+
 ## Anti-Deflation Rule
 
 Do not collapse this into "just notes" or "just files." The measured local files are slices, but the chain language they preserve is an address system: LX/IX IDs, tools, skills, catalogs, bridges, hooks, gates, PIDs, checksums, and chain sequences. The token saving is the shift from loading bulk text into every agent to making knowledge addressable through tuple plus LX chain.
